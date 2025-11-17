@@ -12,3 +12,8 @@ A demonstration of AI-powered financial analysis and research capabilities.
 - Real-time market data integration
 - Predictive modeling and forecasting
 - Comprehensive research tools
+- Multi-asset portfolio analysis
+
+## Last Updated
+
+Updated via Claude Code on 2025-11-17
